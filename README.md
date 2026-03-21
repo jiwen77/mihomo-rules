@@ -1,0 +1,2 @@
+# mihomo-rules
+custom rules
