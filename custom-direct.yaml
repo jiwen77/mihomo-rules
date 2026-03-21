@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,download.isaacsim.omniverse.nvidia.com
+  - DOMAIN-SUFFIX,isaacsim.omniverse.nvidia.com
+  - DOMAIN-SUFFIX,omniverse.nvidia.com
