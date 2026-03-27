@@ -2,3 +2,6 @@ payload:
   - DOMAIN,download.isaacsim.omniverse.nvidia.com
   - DOMAIN-SUFFIX,isaacsim.omniverse.nvidia.com
   - DOMAIN-SUFFIX,omniverse.nvidia.com
+  - DOMAIN-SUFFIX,s3.amazonaws.com
+  - DOMAIN-SUFFIX,matterport.com
+  
