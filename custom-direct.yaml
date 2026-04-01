@@ -5,4 +5,4 @@ payload:
   - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN-SUFFIX,matterport.com
   - DOMAIN-SUFFIX,convertio.co
-  
+  - DOMAIN-SUFFIX,pytorch.org
