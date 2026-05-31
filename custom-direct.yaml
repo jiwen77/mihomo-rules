@@ -6,3 +6,7 @@ payload:
   - DOMAIN-SUFFIX,matterport.com
   - DOMAIN-SUFFIX,convertio.co
   - DOMAIN-SUFFIX,pytorch.org
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,computer.org
+  - DOMAIN-SUFFIX,ieee-dataport.org
+  - DOMAIN-SUFFIX,techrxiv.org
