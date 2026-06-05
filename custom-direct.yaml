@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,computer.org
   - DOMAIN-SUFFIX,ieee-dataport.org
   - DOMAIN-SUFFIX,techrxiv.org
+  - DOMAIN-SUFFIX,wenlab.link
